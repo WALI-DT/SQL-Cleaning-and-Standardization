@@ -4,7 +4,7 @@
 **Overview:**
 This project focuses on preparing a layoffs dataset obtained from Kaggle to prepare it for accurate and efficient analysis. The process involved creating structured tables, standardizing data formats, and removing inconsistencies to ensure the dataset's quality and usability. The project is designed for both technical and non-technical audiences interested in understanding data cleaning and preparation techniques.
 
-The SQL code used for cleaning and standardizing the dataset is provided in the **`preparation.sql`** file, and the original dataset is available in the **`layoffs_dataset.csv`** file.
+The SQL code used for cleaning and standardizing the dataset is provided in the **`Data Preparation.sql`** file, and the original dataset is available in the **`layoffs_dataset.csv`** file.
 
 ---
 
